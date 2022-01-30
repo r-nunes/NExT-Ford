@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de7a369e-72e5-4555-985f-c586aa777ac7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/aula9/myapp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NExT-Ford.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NExT-Ford.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="23Z4cyKUTMOHdT1tWu2bm0ax9Po" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="myapp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NExT-Ford" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aula9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula9/myapp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.myapp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de7a369e-72e5-4555-985f-c586aa777ac7" name="Default Changelist" comment="" />
+      <created>1641928358390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641928358390</updated>
+    </task>
+    <task id="LOCAL-00001" summary="...">
+      <created>1642444244698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642444244698</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1208" y="350" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1642446061402">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1208" y="350" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/-1920.0.1920.1080/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1642446061402" />
+    <state x="-1315" y="142" key="CommitChangelistDialog2" timestamp="1642444244488">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1315" y="142" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1642444244488" />
+    <state x="-1075" y="275" key="FileChooserDialogImpl" timestamp="1642798261320">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1075" y="275" key="FileChooserDialogImpl/0.23.1920.1057/-1920.0.1920.1080/-3840.23.1920.1057@-1920.0.1920.1080" timestamp="1642798261320" />
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom" timestamp="1642798769545">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1642798769545" />
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1920.0.1920.1080/-3840.23.1920.1057@-1920.0.1920.1080" timestamp="1642798340024" />
+    <state width="1899" height="304" key="GridCell.Tab.0.center" timestamp="1642798769543">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1642798769543" />
+    <state width="1899" height="304" key="GridCell.Tab.0.center/0.23.1920.1057/-1920.0.1920.1080/-3840.23.1920.1057@-1920.0.1920.1080" timestamp="1642798340022" />
+    <state width="1899" height="304" key="GridCell.Tab.0.left" timestamp="1642798769542">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1642798769542" />
+    <state width="1899" height="304" key="GridCell.Tab.0.left/0.23.1920.1057/-1920.0.1920.1080/-3840.23.1920.1057@-1920.0.1920.1080" timestamp="1642798340021" />
+    <state width="1899" height="304" key="GridCell.Tab.0.right" timestamp="1642798769544">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1642798769544" />
+    <state width="1899" height="304" key="GridCell.Tab.0.right/0.23.1920.1057/-1920.0.1920.1080/-3840.23.1920.1057@-1920.0.1920.1080" timestamp="1642798340023" />
+    <state x="-1728" y="97" key="MergeDialog" timestamp="1642444269713">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1728" y="97" key="MergeDialog/0.0.1920.1080/-1920.0.1920.1080/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1642444269713" />
+    <state x="-1244" y="263" key="MultipleFileMergeDialog" timestamp="1642444269751">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1244" y="263" key="MultipleFileMergeDialog/0.0.1920.1080/-1920.0.1920.1080/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1642444269751" />
+    <state x="-1474" y="52" width="1222" height="922" key="SettingsEditor" timestamp="1642798724439">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1474" y="52" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1642798724439" />
+    <state x="-1474" y="52" width="1222" height="922" key="SettingsEditor/0.23.1920.1057/-1920.0.1920.1080/-3840.23.1920.1057@-1920.0.1920.1080" timestamp="1642798426744" />
+    <state x="-1360" y="268" key="Vcs.Push.Dialog.v2" timestamp="1642444247705">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1360" y="268" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080/-3840.0.1920.1080@-1920.0.1920.1080" timestamp="1642444247705" />
+  </component>
+</project>
